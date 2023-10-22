@@ -5,5 +5,6 @@ Angular project for selenium UI testing.
 Angular, HTML, TypeScript
 
 # Configurations
-Medium Blog: 
-Java Project Repository: 
+Medium Blog: https://sachithariyathilaka.medium.com/selenium-ee1292be0022
+
+Java Project Repository: https://github.com/sachithariyathilaka/selenium-tutorial
