@@ -6,8 +6,8 @@ Angular project for selenium UI testing.
   * HTML 5
   * TypeScript 5
 
-* ### Configurations
-  * https://towardsdev.com/selenium-ee1292be0022
+* ### Documentations
+  * [Medium Story](https://towardsdev.com/selenium-ee1292be0022)
 
 * ### Release Note
 
